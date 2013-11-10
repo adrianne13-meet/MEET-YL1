@@ -1,0 +1,3 @@
+a = raw_input ("tell me something")
+len(a)
+
